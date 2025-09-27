@@ -9,4 +9,4 @@
 ```mermaid
 
 graph LR
-A(By Amala from CSEA)      
+A(By Amala from CSE A)      
